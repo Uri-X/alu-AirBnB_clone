@@ -3,7 +3,7 @@
 """ a class Amenity that inherits from BaseModel"""
 =======
 """
-Module for Amenity class
+This is a Module for Amenity class
 """
 >>>>>>> 24103b9f0f67f6e0446e8bbc4fe21666dfd27f0b
 from models.base_model import BaseModel
