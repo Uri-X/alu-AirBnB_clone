@@ -1,3 +1,4 @@
+git push --set-upstream https://github.com/Uri-X/alu-AirBnB_clone.git main --force
 <<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/a7a7225e-4293-4c7c-b206-fa15c2af0057)
 
@@ -18,7 +19,7 @@ The command interpreter facilitates the management of project objects by enablin
 - Creation of new objects (e.g., a new User or Place).
 - Retrieval of objects from files, databases, etc.
 - Performing operations on objects (like counting or computing statistics).
-- Updating object attributes.
+- Updating ond editing of object attributes.
 - Deleting objects.
 
 - ### Starting the Interpreter
