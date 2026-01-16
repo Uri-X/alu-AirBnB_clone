@@ -1,0 +1,42 @@
+#!/usr/bin/python3
+<<<<<<< HEAD
+""" a class Place that inherits from BaseModel"""
+=======
+"""
+Module for Place class
+"""
+>>>>>>> 24103b9f0f67f6e0446e8bbc4fe21666dfd27f0b
+from models.base_model import BaseModel
+
+
+class Place(BaseModel):
+<<<<<<< HEAD
+=======
+    """Inherits from BaseModel class
+
+     Attributes:
+        city_id (str): City id
+        user_id (str): User id
+        name (str): name of the place.
+        description (str): description of the place
+        number_rooms (int): number of rooms of the place
+        number_bathrooms (int): number of bathrooms of the place
+        max_guest (int): maximum number of guests of the place
+        price_by_night (int): price by night of the place
+        latitude (float): latitude of the place
+        longitude (float): longitude of the place
+        amenity_ids (list): list of Amenity ids
+
+    """
+>>>>>>> 24103b9f0f67f6e0446e8bbc4fe21666dfd27f0b
+    city_id = ""
+    user_id = ""
+    name = ""
+    description = ""
+    number_rooms = 0
+    number_bathrooms = 0
+    max_guest = 0
+    price_by_night = 0
+    latitude = 0.0
+    longitude = 0.0
+    amenity_ids = []
