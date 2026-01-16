@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 <<<<<<< HEAD
-Module for the User class.
+This is the Module for the User class.
 =======
 Defines the User class.
 >>>>>>> 24103b9f0f67f6e0446e8bbc4fe21666dfd27f0b
