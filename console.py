@@ -96,7 +96,7 @@ class HBNBCommand(cmd.Cmd):
 
     def do_show(self, arg):
         """
-        Show the string representation of an instance.
+       this shows the string representation of an instance.
         Usage: show <class_name> <id>
         """
         commands = shlex.split(arg)
