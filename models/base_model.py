@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 <<<<<<< HEAD
 """
-Module for the BaseModel class.
+This is Module for the BaseModel class.
 """
 import uuid
 from datetime import datetime
