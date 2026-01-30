@@ -1,0 +1,13 @@
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Other common ignores
+*.log
+*.swp
+*.swo
