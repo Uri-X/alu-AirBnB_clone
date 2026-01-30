@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
 """
 This is Module for the BaseModel class.
 """
@@ -79,7 +78,7 @@ if __name__ == "__main__":
 
     print("--")
     print(my_model is my_new_model)
-=======
+
 from datetime import datetime
 import uuid
 
@@ -114,6 +113,3 @@ class BaseModel:
         dict_copy['created_at'] = self.created_at.isoformat()
         dict_copy['updated_at'] = self.updated_at.isoformat()
         return dict_copy
-
-
->>>>>>> 24103b9f0f67f6e0446e8bbc4fe21666dfd27f0b
